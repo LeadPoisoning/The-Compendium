@@ -9,29 +9,33 @@ status: seedling
 
 This section includes the highest priority subjects. It will mostly be populated by pure mathematics and physical sciences with important topics from other subjects occasionally being considered high priority.
 
-<h2>Pure Math</h2>
+### Pure Math
 - Algebra
 - Analysis
 - Topology
 - Differential Geometry
 
-<h2>Physics</h2>
+### Physics
 - Classical Mechanics
 - Electrodynamics
 - Quantum Mechanics
 - Statistical Mechanics/Thermal Physics
 
-<h2>Chemistry</h2>
+### Chemistry
 - Quantum Chemistry
 - Inorganic Chemistry
-
-<h2>Biology</h2>
+- Organic Chemistry
+### Biology
 - Biochemistry
 - Molecular Biology
 
-<h2>Philosophy</h2>
+### Philosophy
 - Philosophy of Science
 
 # Medium Priority
 
-This section outlines the 
+This section outlines the next highest priority subjects. This mostly includes philosophy, religion, and soft sciences. Areas of the hard sciences that are deemed lower priority will also show up here.
+
+### Pure Math
+
+
