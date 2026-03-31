@@ -9,7 +9,7 @@ status: growing
 ---
 # Folder Structure
 
-/Concepts - the atomic notes that contain the information for topic
+/Core - the atomic notes that contain the information for topics, people, places, etc.
 /Fleeting - quick captures, to be processed
 /Maps - navigation and indexing notes used to organize
 /Projects - study plans, problem sets, essays
