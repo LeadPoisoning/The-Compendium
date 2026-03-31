@@ -15,6 +15,9 @@ status: seedling
 
 # Note Anatomy
 
-Every note should begin with YAML frontmatter containing metadata. This metadata along with note linking will be the main structure of the compendium.
+Every note should begin with YAML frontmatter containing metadata. This metadata along with note linking will be the main structure of the compendium. Every note should include a type, at least one tag, and a status property.
 
-## 
+### Property types
+
+##### type
+This 
