@@ -36,6 +36,7 @@ This section includes the highest priority subjects. It will mostly be populated
 
 ### Philosophy
 - Philosophy of Science
+- Philosophy of Mind
 
 # Medium Priority
 
@@ -51,3 +52,9 @@ This section outlines the next highest priority subjects. This mostly includes p
 - Epistemology
 - Aesthetics
 - Morality
+
+### Computer Science
+- Artificial Intelligence
+
+### Psychology
+- Theory of Mind
