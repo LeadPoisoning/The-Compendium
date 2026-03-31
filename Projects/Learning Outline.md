@@ -31,3 +31,7 @@ This section includes the highest priority subjects. It will mostly be populated
 
 <h2>Philosophy</h2>
 - Philosophy of Science
+
+# Medium Priority
+
+This section outlines the 

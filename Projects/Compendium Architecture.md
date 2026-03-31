@@ -38,3 +38,6 @@ This property denotes the current status of the note. It can take one of the fol
 - growing: a note that is a work in progress, but has most of the applicable information
 - mature: a note that is basically complete and needs little to no revisiting
 
+##### alias
+This property is a list of alternate names for a note that can be referenced interchangeably.
+
