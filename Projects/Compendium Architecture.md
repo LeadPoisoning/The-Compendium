@@ -22,4 +22,6 @@ Every note should begin with YAML frontmatter containing metadata. This metadata
 ##### type
 
 This property indicates the note type and can have one of the following values:
-- 
+- concept: a note that describes one small concept (group, set, Hamiltonian, etc.)
+- person: a note that describes a historical person (Isaac Newton, Albert Einstein, etc.)
+- synthesis: a note that is 
