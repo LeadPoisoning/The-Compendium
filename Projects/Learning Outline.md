@@ -11,7 +11,7 @@ This section includes the highest priority subjects. It will mostly be populated
 
 ### Pure Math
 - Algebra
-- Analysis
+- Real Analysis
 - Topology
 - Differential Geometry
 
@@ -37,5 +37,9 @@ This section includes the highest priority subjects. It will mostly be populated
 This section outlines the next highest priority subjects. This mostly includes philosophy, religion, and soft sciences. Areas of the hard sciences that are deemed lower priority will also show up here.
 
 ### Pure Math
-
+- Probability and Statistics
+- Non-Euclid
+### Philosophy
+- Aesthetics
+- Morality
 
