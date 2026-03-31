@@ -5,7 +5,7 @@ tags:
   - planning
 status: seedling
 ---
-## High Priority
+# High Priority
 
 This section includes the highest priority subjects. It will mostly be populated by pure mathematics and physical sciences with important topics from other subjects occasionally being considered high priority.
 
