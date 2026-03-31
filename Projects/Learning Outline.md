@@ -11,9 +11,14 @@ This section includes the highest priority subjects. It will mostly be populated
 
 ### Pure Math
 - Algebra
+	- Group Theory
+	- Ring Theory
+	- Field Theory
+	- Galois Theory
 - Real Analysis
 - Topology
 - Differential Geometry
+- Complex Analysis
 
 ### Physics
 - Classical Mechanics
@@ -38,8 +43,11 @@ This section outlines the next highest priority subjects. This mostly includes p
 
 ### Pure Math
 - Probability and Statistics
-- Non-Euclid
+- Number Theory
+- Graph Theory
+- Combinatorics
+- Non-Euclidean Geometry
 ### Philosophy
+- Epistemology
 - Aesthetics
 - Morality
-
