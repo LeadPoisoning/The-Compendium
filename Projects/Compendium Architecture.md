@@ -32,3 +32,4 @@ This property is more general, but should usually include the domain, subdomain,
 
 ##### status
 This property denotes the current status of the note. It can take one of the following values:
+- seedling: 
