@@ -14,7 +14,18 @@ This section includes the highest priority subjects. It will mostly be populated
 - Differential Geometry
 
 <h2>Physics</h2>
+- Classical Mechanics
+- Electrodynamics
+- Quantum Mechanics
+- Statistical Mechanics/Thermal Physics
 
 <h2>Chemistry</h2>
+- Quantum Chemistry
+- Inorganic Chemistry
 
-<h2>Physics</h2>
+<h2>Biology</h2>
+- Biochemistry
+- Molecular Biology
+
+<h2>Philosophy</h2>
+- Philosophy of Science
