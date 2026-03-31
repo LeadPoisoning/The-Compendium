@@ -20,4 +20,6 @@ Every note should begin with YAML frontmatter containing metadata. This metadata
 ### Property types
 
 ##### type
-This 
+
+This property indicates the note type and can have one of the following values:
+- 
