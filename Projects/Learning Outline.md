@@ -57,8 +57,10 @@ This section outlines the next highest priority subjects. This mostly includes p
 - Artificial Intelligence
 
 ### Psychology
-- Theory of Mind
-	- Antonio Damasio's Books
+- Theory of Consciousness
+	- Antonio Damasio's books
+	- Douglas Hofstadter's books
+	- 
 
 ### Neuroscience
 - Neurobiology
