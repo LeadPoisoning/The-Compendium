@@ -32,4 +32,6 @@ This property is more general, but should usually include the domain, subdomain,
 
 ##### status
 This property denotes the current status of the note. It can take one of the following values:
-- seedling: 
+- seedling: a new note with a lot of work left to do
+- growing: a note that is a work in progress, but has most of the applicable information
+- mature: a note that is basically complete and needs little to no revisiting
