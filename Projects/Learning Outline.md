@@ -56,11 +56,10 @@ This section outlines the next highest priority subjects. This mostly includes p
 ### Computer Science
 - Artificial Intelligence
 
-### Psychology
+### Psychology and Neuroscience
 - Theory of Consciousness
 	- Antonio Damasio's books
 	- Douglas Hofstadter's books
-	- 
-
-### Neuroscience
+	- Consciousness Explained by Dennett
+	- The Architecture of the Mind by Carruthers
 - Neurobiology
