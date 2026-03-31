@@ -20,8 +20,15 @@ Every note should begin with YAML frontmatter containing metadata. This metadata
 ### Property types
 
 ##### type
-
 This property indicates the note type and can have one of the following values:
 - concept: a note that describes one small concept (group, set, Hamiltonian, etc.)
 - person: a note that describes a historical person (Isaac Newton, Albert Einstein, etc.)
-- synthesis: a note that is 
+- synthesis: a note that is an original work (essay, learning plan, timeline, etc.)
+- map: a navigational note known as a map of content (MOC)
+- source: notes on specific sources such as books, videos, and lectures
+
+##### tags
+This property is more general, but should usually include the domain, subdomain, and related topics.
+
+##### status
+This property denotes the current status of the note. It can take one of the following values:
