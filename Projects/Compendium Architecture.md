@@ -3,7 +3,7 @@ type: synthesis
 tags:
   - planning
   - metalearning
-status: seedling
+status: growing
 ---
 # Folder Structure
 
